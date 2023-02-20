@@ -1,6 +1,8 @@
 package vonglap;
+
 import java.util.Scanner;
-public class bai5 {
+
+public class bai7 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("nhập 1 số bất kỳ:");
