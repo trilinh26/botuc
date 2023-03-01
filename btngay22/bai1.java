@@ -6,7 +6,6 @@ public class bai1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int [] array ;
-
         System.out.print("nhập độ dài mảng :");
         int number = sc.nextInt();
         array = new int [number];
